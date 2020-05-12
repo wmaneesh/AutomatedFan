@@ -18,3 +18,7 @@ when the system is turned on and on manual mode with fan speed set to 3.
 
 <img src="https://github.com/wmaneesh/AutomatedFan/blob/master/final_product.jpg" width="150">
 
+
+<p align="center">
+  <img />
+</p>
