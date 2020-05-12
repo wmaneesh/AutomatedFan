@@ -22,12 +22,10 @@ when the system is turned on and on manual mode with fan speed set to 3.
 - - - -
 # Acrchitecture # 
 
-
 * Software Artchitectures Used
-  * System Timer (SysTick Timer)
+  * SysTick Timer (System Timer for reading tempearture sensor periodically)
   * I2C Serial Communication Protocol (Communicating with temperature sensor)
-  * Switch Matrix (PWM signal for fan)  
-
-
-
+  * Switch Matrix (PWM signal for fan)
+  
+ <img src="https://github.com/wmaneesh/AutomatedFan/blob/master/System_Architecture.png" width="200">
 
